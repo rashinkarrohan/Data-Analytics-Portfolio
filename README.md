@@ -21,7 +21,7 @@ or Clone it in your device.
      
     Tools : Pandas, Seaborn, request
     
-####  [3. Makkan Scrap](https://nbviewer.jupyter.org/github/rohanrashinkar2/Data-Analytics-Portfolio/blob/main/1.%20Data%20Collection/3.%20Pune%20Housing%20Data.ipynb)
+####  [3. Makaan Scrap](https://nbviewer.jupyter.org/github/rohanrashinkar2/Data-Analytics-Portfolio/blob/main/1.%20Data%20Collection/3.%20Pune%20Housing%20Data.ipynb)
 
 * Web Scrapping on [Makaan.com](https://www.makaan.com/) using BeautifulSoup and Selenium.
     
@@ -30,7 +30,7 @@ or Clone it in your device.
 ## Data Wrangling
 
 #### [1. Pune Housing Data Cleaning](https://nbviewer.jupyter.org/github/rohanrashinkar2/Data-Analytics-Portfolio/blob/main/2.%20Data%20Wrangling/1.%20Pune%20Housing%20Data%20Wrangling.ipynb) : 
-- Earlier I have Scrapped the Data of Pune Housing from makkan.com. It was very messy, So I have Clean it in a Proper format for analysis.
+- Earlier I have Scrapped the Data of Pune Housing from makaan.com. It was very messy, So I have Clean it in a Proper format for analysis.
 
 #### [2. Indian Population Data Cleaning](https://nbviewer.jupyter.org/github/rohanrashinkar2/Data-Analytics-Portfolio/blob/main/2.%20Data%20Wrangling/2.%20Population%20Data%20.ipynb)
 - Indian Population Data has column Country which needs to clean to gain insight.
