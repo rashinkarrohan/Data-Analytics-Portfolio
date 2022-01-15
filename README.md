@@ -57,7 +57,7 @@ or Clone it in your device.
 ## Model Building
 
 #### [1. Indian Population Prediction](https://nbviewer.jupyter.org/github/rohanrashinkar2/Data-Analytics-Portfolio/blob/main/4.%20Model%20Building/Population%20Prediction%20Model.ipynb)
-* A Linear model to predict the Population of Indian using variable Year.
+* A Simple linear regression model to predict the Population of Indian using variable Year.
         
       Tools: Pandas, Numpy, Seaborn, Matplotlib , Sklearn
       
